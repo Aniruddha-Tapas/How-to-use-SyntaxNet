@@ -4,7 +4,7 @@
 
 [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) is a neural-network Natural Language Processing framework for TensorFlow released by Google. It is one of the most powerful and accurate parsers. 
 
-![Syntaxnet Demo]("https://raw.githubusercontent.com/Aniruddha-Tapas/how-to-use-syntaxnet/master/syntaxnet.gif")
+![Syntaxnet Demo](https://raw.githubusercontent.com/Aniruddha-Tapas/how-to-use-syntaxnet/master/syntaxnet.gif)
 
 Given a sentence as input, SyntaxNet tags each word with a part-of-speech (POS) tag that describes the word's syntactic function, and it determines the syntactic relationships between words in the sentence, represented in the dependency parse tree. These syntactic relationships are directly related to the underlying meaning of the sentence in question.
 
