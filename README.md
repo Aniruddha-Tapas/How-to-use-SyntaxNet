@@ -91,6 +91,8 @@ found VBD ROOT
  |       +-- tutorials NNS dobj
  |           +-- AI NNP nn
  +-- . . punct
+ 
+Paraphrased sentence : 
 I established a website to post AI tutorials.
 ```
 
@@ -111,6 +113,6 @@ Thus this code is a pretty simple approach to use SyntaxNet for basic paraphrasi
 
 * And to understand the dependencies that SyntaxNet tries to find within a sentence, please visit [here](http://universaldependencies.org/en/dep/).
 
-This links would definitely help you to understand the output of SyntaxNet better. Feel free to improvise!
+These links would definitely help you to understand the output of SyntaxNet better. Feel free to improvise!
 
 <hr>
