@@ -23,4 +23,5 @@ synonym = nlp_util.get_synonym(root)
 #print synonym
 
 #display parahrased sentence
+print "\nParaphrased sentence:"
 print nlp_util.get_paraphrase(input_str,root)
