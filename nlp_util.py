@@ -1,3 +1,7 @@
+"""
+Helper class that provides NLP functionalities and calls the SyntaxNet shell script.
+"""
+
 import sys, os 
 import subprocess
 import nltk
@@ -25,11 +29,12 @@ def create_dependency_tree():
 	deptree = out.splitlines()
 	return deptree
 
-#retrieve root word and dependent object
+#retrieve root word 
 def get_root_word(dependency_tree):
 	root = dependency_tree[2].split()
 	return root
 
+#retrieve dependent object
 def get_dependent_object(dependency_tree):
 	#print "Getting dependency tree"
 	#for d in dependency_tree:
