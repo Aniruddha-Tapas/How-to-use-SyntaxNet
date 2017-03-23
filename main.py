@@ -1,3 +1,7 @@
+"""
+Main script to process the input string using nlp_util via the SyntaxNet parsing and finding root verb synonyms with accurate tenses using the Verb class,
+and then print the paraphrased sentence.
+"""
 import nlp_util
 
 #accept user input
