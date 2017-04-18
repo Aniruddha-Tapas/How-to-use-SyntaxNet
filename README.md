@@ -107,7 +107,7 @@ You'll have to run `pip install nltk` to install nltk. The `Verb` folder contain
 
 ### Conclusion
 
-Thus this code is a pretty simple approach to use SyntaxNet for basic paraphrasing. It's just a demo and it doesn't always find the paraphrase and hence in this case returns the same sentence. But our main goal is to run SyntaxNet and leverage its capabilities to find the proper context in a given text and use it to find important pieces of text like the `Root Word`, `Dependent Object` etc.
+Thus, this code is a pretty simple approach to use SyntaxNet for basic paraphrasing. It's just a demo and it doesn't always find the paraphrase and hence in such cases returns the same sentence. But our main goal is to run SyntaxNet and leverage its capabilities to find the proper context in a given text and use it to find important pieces of text like the `Root Word`, `Dependent Object` etc.
 
 * To learn more about all the Part of Speech Tags that appear in the SyntaxNet output, please visit [here](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html).
 
