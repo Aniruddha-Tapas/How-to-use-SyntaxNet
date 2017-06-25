@@ -2,7 +2,7 @@
 
 <hr>
 
-[SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) is a neural-network Natural Language Processing framework for TensorFlow released by Google. It is one of the most powerful and accurate parsers. 
+[SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) is a neural-network Natural Language Processing framework for TensorFlow released by Google. It is one of the most powerful and accurate parsers in the world today. 
 
 <h6>Courtesy: Google</h6>
 
