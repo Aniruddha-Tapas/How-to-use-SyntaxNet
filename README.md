@@ -49,7 +49,7 @@ Depending on the speed of your network connection, you might have to wait for a 
 3. Parsey McParseface, the pre-trained model that comes with SyntaxNet is powerful but slightly complicated. Thankfully, we can use the shell script `demo.sh` provided with SyntaxNet itself. All you need to do is pass an English sentence to it. 
 
 ```
-echo "I found a website to post AI tutorials ." syntaxnet/demo.sh
+echo "I found a website to post AI tutorials ." | syntaxnet/demo.sh
 ```
 
 It generates the folling dependency parse tree as output:
